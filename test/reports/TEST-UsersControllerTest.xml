@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UsersControllerTest" tests="7" time="0.057085" failures="0" errors="0" skipped="0" assertions="13" timestamp="2015-07-17T15:44:47-06:00">
+  <testcase name="test_should_get_index" time="0.17299731600360246" assertions="2">
+  </testcase>
+  <testcase name="test_should_show_user" time="0.008089180002571084" assertions="1">
+  </testcase>
+  <testcase name="test_should_get_new" time="0.017839568005001638" assertions="1">
+  </testcase>
+  <testcase name="test_should_destroy_user" time="0.005913756998779718" assertions="3">
+  </testcase>
+  <testcase name="test_should_update_user" time="0.004716160001407843" assertions="2">
+  </testcase>
+  <testcase name="test_should_get_edit" time="0.009020071003760677" assertions="1">
+  </testcase>
+  <testcase name="test_should_create_user" time="0.007453872996848077" assertions="3">
+  </testcase>
+</testsuite>
